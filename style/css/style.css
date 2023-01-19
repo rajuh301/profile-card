@@ -1,0 +1,31 @@
+/* fonts */
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Poppins:wght@500;600&family=Work+Sans:wght@700&display=swap');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+#profile{
+    position: relative;
+    margin-left:25%;
+    margin-top: -20%;
+
+}
+
+.icon{
+    color: green;
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+}
+
+#id{
+    gap: 50px;
+    margin-left: 5px;
+}
+
